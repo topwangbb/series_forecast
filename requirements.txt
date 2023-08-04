@@ -1,0 +1,8 @@
+#python==3.6.8
+pandas==1.1.5
+flask==1.1.2
+numpy==1.19.5
+statsmodels===0.12.2
+pmdarima==1.8.4
+requests
+flask_restful
